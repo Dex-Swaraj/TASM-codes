@@ -66,7 +66,7 @@ EVEN_ODD
 
 ---
 
-## 🧠 Learning Goals
+## Learning Goals
 
 These programs are built to help understand:
 - Register operations in 8086
@@ -77,14 +77,14 @@ These programs are built to help understand:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Programs are compiled for **16-bit DOS** and must be run under a DOS environment (use DOSBox for modern systems).
 - Each executable is approx 1 KB, making it lightweight for emulation and testing.
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 This repository is intended for educational and demonstrative purposes. You are welcome to:
 - Fork and improve these programs
@@ -93,7 +93,7 @@ This repository is intended for educational and demonstrative purposes. You are 
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Swaraj**
 
