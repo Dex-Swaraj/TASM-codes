@@ -50,7 +50,7 @@ To run or modify these programs, you'll need:
     HELLO.EXE
     ```
 
-### 🛠️ Assembling a new file:
+### Assembling a new file:
 ```
 TASM FILENAME.ASM
 TLINK FILENAME.OBJ
